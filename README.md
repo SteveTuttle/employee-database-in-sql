@@ -43,7 +43,7 @@ Here we were ask a series of questions based on the data from the schema tables:
 5. List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
 6. List each employee in the Sales department, including their employee number, last name, and first name.
 7. List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
-8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
+8. List the frequency counts, in descending order, of all the employee last names.
 
 ## Resources
 ### Bootcamp References
@@ -64,8 +64,11 @@ Starter CSV files
 
 ### External References
 _(where possible will provide link to website)_
+
 *[PostgreSQL Cheatsheet](https://unc.bootcampcontent.com/UNC-Coding-Boot-Camp/UNC-VIRT-DATA-PT-03-2023-U-LOLC/-/blob/main/09-SQL/Supplemental/PostgreSQL-Cheat-Sheet.pdf)
+
 *[SQL Reference Guide](https://unc.bootcampcontent.com/UNC-Coding-Boot-Camp/UNC-VIRT-DATA-PT-03-2023-U-LOLC/-/blob/main/09-SQL/Supplemental/SQL_reference_guide.pdf)
+
 *YouTube (various sources)
 
 
