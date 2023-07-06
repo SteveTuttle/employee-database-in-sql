@@ -19,7 +19,8 @@ We are using pgAdmin working with postgreSQL to complete this challenge.
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. After reviewing and mapping out each CSV file, using the ERD Tool in pgADmin provided me the most efficient way to display the ERD for this challenge.
 
 __employee database ERD:__
-![employee_db_erd](https://github.com/SteveTuttle/sql_challenge/tree/main/EmployeeSQL#:~:text=PH%2D-,ERD_employee_db,-.png)
+
+![employee_db_erd](https://github.com/SteveTuttle/sql_challenge/blob/main/PH-ERD_employee_db.png)
 
 ### Part-2: Data Engineering - Schema SQL
 1. We will use the information provided from the six CSV files to create a table Schema.
@@ -63,8 +64,8 @@ Starter CSV files
 
 ### External References
 _(where possible will provide link to website)_
-[PostgreSQL Cheatsheet](https://unc.bootcampcontent.com/UNC-Coding-Boot-Camp/UNC-VIRT-DATA-PT-03-2023-U-LOLC/-/blob/main/09-SQL/Supplemental/PostgreSQL-Cheat-Sheet.pdf)
-[SQL Reference Guide](https://unc.bootcampcontent.com/UNC-Coding-Boot-Camp/UNC-VIRT-DATA-PT-03-2023-U-LOLC/-/blob/main/09-SQL/Supplemental/SQL_reference_guide.pdf)
-YouTube (various sources)
+*[PostgreSQL Cheatsheet](https://unc.bootcampcontent.com/UNC-Coding-Boot-Camp/UNC-VIRT-DATA-PT-03-2023-U-LOLC/-/blob/main/09-SQL/Supplemental/PostgreSQL-Cheat-Sheet.pdf)
+*[SQL Reference Guide](https://unc.bootcampcontent.com/UNC-Coding-Boot-Camp/UNC-VIRT-DATA-PT-03-2023-U-LOLC/-/blob/main/09-SQL/Supplemental/SQL_reference_guide.pdf)
+*YouTube (various sources)
 
 
