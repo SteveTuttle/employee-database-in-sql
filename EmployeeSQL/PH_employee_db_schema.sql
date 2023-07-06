@@ -11,7 +11,6 @@ we determined the following is the most efficient sequence to load the data into
 	5) dept_manager 
 	6) salaries 
 2. We will import each CSV file into its corresponding SQL table using the import function in pgAdmin.
-Make initial comments here ++ will replace this line with other notes.
 */
 
 -- Create the tables and import CSV files needed for SQL database
