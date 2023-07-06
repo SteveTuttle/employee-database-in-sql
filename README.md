@@ -23,16 +23,14 @@ __employee database ERD:__
 ![employee_db_erd](https://github.com/SteveTuttle/sql_challenge/blob/main/PH-ERD_employee_db.png)
 
 ### Part-2: Data Engineering - Schema SQL
-1. We will use the information provided from the six CSV files to create a table Schema.
-Based on the data from the CSV files used to create the initial Entity Relationship Diagram,
-we determined the following is the most efficient sequence to load the data into the SQL database:
+1. Use the information provided from the six CSV files to create a table Schema. Based on the data from the CSV files used to create the initial Entity Relationship Diagram, the following is the most efficient sequence to load the data into the SQL Schema database:
 	1. titles 
 	2. employees 
 	3. departments 
 	4. dept_emp 
 	5. dept_manager 
 	6. salaries 
-2. We will import each CSV file into its corresponding SQL table using the import function in pgAdmin.
+2. We then import each CSV file into its corresponding SQL table using the Import function in pgAdmin.
 
 ### Part-3: Data Analysis - Queries SQL
 Here we were ask a series of questions based on the data from the schema tables:
