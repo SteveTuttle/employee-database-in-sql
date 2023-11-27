@@ -1,4 +1,4 @@
-# sql_challenge
+# employee-database-in-sql
 UNC_data_bootcamp_module_9
 
 ## Challenge Description
